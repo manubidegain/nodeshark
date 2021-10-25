@@ -2,7 +2,7 @@ baseURL = "https://manubidegain.github.io/nodeshark/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
-title = "Portio"
+title = "NodeShark"
 # Main Menu
 [[menu.main]]
 name = "Home"
