@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, We are NodeShark
 content: >
-  # I am here for your personal business
+  # We dive into software solutions building and improving your ideas
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Our mission is to provide our clients with high quality software solutions
+buttonName: Contact us
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoURL: https://www.youtube.com/watch?v=p_Y_zPlPgFU
