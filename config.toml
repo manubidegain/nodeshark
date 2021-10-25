@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://manubidegain.github.io/nodeshark/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
