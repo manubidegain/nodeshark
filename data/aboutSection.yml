@@ -1,20 +1,18 @@
 ---
 enable: true
-topTitle: About
+topTitle: 
 title: >
-  ## About me
+  ## About us
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  We are a highly skilled software and design team based in Montevideo.
 content: >
-  ### I design and build ultimate things.
+  ### Let us be your partner in the development of your idea
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  Our multidisciplinary team of professionals with extensive experience in the field, 
+  will accompany you in the development or improvement of your idea, 
+  always aiming for excellence in our products.
+button1Name: Send inquiry
+button2Name: Lets have a meet
 button1Target: contact
-button2Target: contact
-image: images/about/about-img.jpg
+button2Target: https://calendly.com/nodeshark/30min
+image: images/about/ilustracion_1.png
