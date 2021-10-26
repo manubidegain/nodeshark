@@ -2,44 +2,42 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Our Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  We offer an end to end solution where you can start whenever you want
+
 service:
   - content: >
-      #### UI/UX Design 
+      #### UI/UX Design starting from idea
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Let our UX / UI team co-create with you the best layout and the best user flows for your web or mobile app.
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
   - content: >
       #### Creative Design 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Do you need creativity to create your brand identity? our team of designers can offer you what you need.
+      Logos, assets, renders, etc. We are happy to help you
     image: images/service/creative.svg
+  - content: >
+      #### Web Development 
+
+      We create, maintain and optimize your website. We work with different technologies to adjust to the needs of our clients, 
+      offering the best solution at the best price.
+    image: images/service/web.svg
+  - content: >
+      #### Mobile Development
+
+      Our multidisciplinary team works both in native applications and in different frameworks to adapt to your budget according to your needs.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Digital Marketing (Social Media, SEO, SEM)
+
+      Let us improve the quality and quantity of website traffic to your website from search engines.
+      Also we can manage your social media content designing your feed and managing paid campaigns.
+    image: images/service/web.svg
   - content: >
       #### Branding
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      We create the image and personality of your brand, seeking to generate sensations and create conscious and unconscious connections,
+      that will be crucial for the customer to choose your brand at the time of purchase decision
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
