@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NodeShark</title>
-    <link>https://manubidegain.github.io/nodeshark/</link>
+    <link>https://gilamn.github.io/nodeshark/</link>
     <description>Recent content on NodeShark</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://manubidegain.github.io/nodeshark/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gilamn.github.io/nodeshark/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
