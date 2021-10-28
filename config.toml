@@ -1,4 +1,4 @@
-baseURL = "https://manubidegain.github.io/nodeshark/"
+baseURL = "https://gilamn.github.io/nodeshark/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
@@ -25,44 +25,28 @@ name = "Resume"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
-[[menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
 name = "About us"
 url = "about"
 weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © NodeShark 2021"
 footerLogo = "images/contact/nodeshark-grande-alternativo-4.png"
-formspreeURL = "YOUR FORMSPREE URL"
+formspreeURL = "https://formspree.io/f/xbjqevjv"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/nodeshark-grande-alternativo2.png"
 
 [params.address]
 address = "Marco Bruto 1439 Montevideo, Uruguay."
-email = "manubdiegain@nodeshark.io"
+email = "hello@nodeshark.io"
 openingHours = "Open from 9am to 6pm"
 phone = "+(598) 98 820 479"
 
